@@ -1,5 +1,5 @@
 {
-  "name": "be/woocommerce-pdf-invoices",
+  "name": "digital-brew/woocommerce-pdf-invoices",
   "description": "A WordPress plugin that automatically generates and attaches PDF invoices to WooCommerce emails.",
   "keywords": ["wordpress", "woocommerce", "pdf", "invoice"],
   "homepage": "https://wcpdfinvoices.com",
