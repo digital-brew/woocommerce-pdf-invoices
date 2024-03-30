@@ -19,6 +19,7 @@
   ],
   "require": {
     "php": ">=5.6",
+    "composer/installers": "^2.2.2"
     "mpdf/mpdf": "dev-mpdf"
   },
   "require-dev": {
